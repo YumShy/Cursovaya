@@ -7,3 +7,12 @@ D:\учёба\OOP C#\2 семестр\курсовая\Cursovaya.Saper\obj\Debug
 D:\учёба\OOP C#\2 семестр\курсовая\Cursovaya.Saper\obj\Debug\Cursovaya.Saper.csproj.GenerateResource.cache
 D:\учёба\OOP C#\2 семестр\курсовая\Cursovaya.Saper\obj\Debug\Cursovaya.Saper.exe
 D:\учёба\OOP C#\2 семестр\курсовая\Cursovaya.Saper\obj\Debug\Cursovaya.Saper.pdb
+D:\учёба\OOP C#\2 семестр\курсовая\Cursovaya\Cursovaya\bin\Debug\Cursovaya.Saper.exe.config
+D:\учёба\OOP C#\2 семестр\курсовая\Cursovaya\Cursovaya\bin\Debug\Cursovaya.Saper.exe
+D:\учёба\OOP C#\2 семестр\курсовая\Cursovaya\Cursovaya\bin\Debug\Cursovaya.Saper.pdb
+D:\учёба\OOP C#\2 семестр\курсовая\Cursovaya\Cursovaya\obj\Debug\Cursovaya.Saper.csprojAssemblyReference.cache
+D:\учёба\OOP C#\2 семестр\курсовая\Cursovaya\Cursovaya\obj\Debug\Cursovaya.Saper.Form1.resources
+D:\учёба\OOP C#\2 семестр\курсовая\Cursovaya\Cursovaya\obj\Debug\Cursovaya.Saper.Properties.Resources.resources
+D:\учёба\OOP C#\2 семестр\курсовая\Cursovaya\Cursovaya\obj\Debug\Cursovaya.Saper.csproj.GenerateResource.cache
+D:\учёба\OOP C#\2 семестр\курсовая\Cursovaya\Cursovaya\obj\Debug\Cursovaya.Saper.exe
+D:\учёба\OOP C#\2 семестр\курсовая\Cursovaya\Cursovaya\obj\Debug\Cursovaya.Saper.pdb
